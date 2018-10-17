@@ -37,6 +37,15 @@ created by Alice Ferrazzi | Updated as 2018-08-13 | [online][1] | [src][2]
 ----
 
 ## Buildbot Based
+ 
+* run builds on a variety of worker platforms
+* arbitrary build process: handles projects using C, Python, whatever
+* minimal host requirements: Python and Twisted
+* status delivery through web page, email, IRC, other protocols
+* track builds in progress, provide estimated completion time
+* flexible configuration by subclassing generic build process classes
+* debug tools to force a new build, submit fake Changes, query worker status
+* released under the GPL
 
 
 
