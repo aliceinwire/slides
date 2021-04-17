@@ -1,3 +1,6 @@
 [submodule "landslide/JoinGentoo"]
 	path = landslide/JoinGentoo
 	url = https://github.com/aliceinwire/JoinGentoo
+[submodule "landslide/Gentoo-landslide"]
+	path = landslide/Gentoo-landslide
+	url = https://github.com/aliceinwire/Gentoo-landslide
