@@ -1,7 +1,7 @@
 # slides
 This try to be a collection of all my presentation.
 
-moving to Marp
+moving from landslide to Marp (https://github.com/marp-team/marp-cli)
 
 #### Quickstart
 installation
